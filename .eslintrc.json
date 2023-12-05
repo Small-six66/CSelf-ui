@@ -11,11 +11,7 @@
     "plugin:@typescript-eslint/recommended",
     "prettier",
     "plugin:prettier/recommended",
-    "./.eslintrc-auto-import.json",
-    "./applications/entrance/.eslintrc-auto-import.json",
-    "./applications/workbench/.eslintrc-auto-import.json",
-    "./applications/gateway/.eslintrc-auto-import.json",
-    "./applications/dataResource/.eslintrc-auto-import.json"
+    "./.eslintrc-auto-import.json"
   ],
   "parser": "vue-eslint-parser",
   "parserOptions": {
